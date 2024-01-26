@@ -1,7 +1,7 @@
 # Smile
 
 ## Author
-Marvelous Nelson (GitHub: mnelson-1)
+Kosiso Okeke (GitHub: Kosisookeke)
 
 ## Overview
 This repository contains an implementation of a webpage using pure HTML semantic elements. The design is based on the provided designer file without any CSS or styling.
@@ -14,7 +14,7 @@ Follow these steps to clone the repository and view the webpage using `index.htm
 
 ### Clone Repository
 ```bash
-https://github.com/mnelson-1/alu-web-development.git
+https://github.com/Kosisookeke/alu-web-development.git
 ```
 
 ### Open Webpage
